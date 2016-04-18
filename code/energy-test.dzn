@@ -6,7 +6,7 @@ nbRes = 1;
 m_res = array2d(1..1, 1..1, [
 	2000,
 ]);
-j_earl = [5];
+j_earl = [0];
 j_late = [49];
 j_dur = [14];
 j_power = [155.8];
